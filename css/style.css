@@ -274,8 +274,6 @@ table{
 .speaker-big {
 	font-size: 1.3em;
 	line-height: 2em;
-	font-family: 'Oswald', sans-serif;
-	text-transform: uppercase;
 }
 
 .col-md-4.speakers {
@@ -412,6 +410,7 @@ table{
 figcaption.performer{
 	margin-bottom: 1em;
 	text-transform: uppercase;
+	font-family: 'Oswald', sans-serif;
 }
 .perform{
 	border-radius: 10%;
