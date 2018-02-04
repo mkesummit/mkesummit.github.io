@@ -274,6 +274,8 @@ table{
 .speaker-big {
 	font-size: 1.3em;
 	line-height: 2em;
+	font-family: 'Oswald', sans-serif;
+	text-transform: uppercase;
 }
 
 .col-md-4.speakers {
@@ -284,6 +286,13 @@ table{
 	padding-top: 2em;
 }
 
+/*Tables*/
+.tables-top{
+	margin-top: 5em;
+}
+.tables-bottom{
+	margin-top: 5em;
+}
 /*volunteer*/
 .col-md-4.volunteer img{
 	display: block;
