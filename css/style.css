@@ -416,6 +416,12 @@ figcaption.performer{
 	border-radius: 10%;
 	box-shadow: 5px 5px 5px grey;
 }
+
+.collab{
+	font-size: 1em;
+	font-weight: normal;
+	text-transform: none;
+}
 /*location*/
 #map {
         width: 100%;
