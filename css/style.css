@@ -324,12 +324,12 @@ table{
 
 .register-btn{
 	text-align: center;
-	font-size: 1.16em;
+	font-size: 1.2em;
 	text-transform: uppercase;
     height: relative;
     margin: .25em 1em;
     padding: 3em 3em;
-    width: 70%
+    width: 90%;
     line-height: 1.8;
     position: relative;
     background-color: rgba(32, 91, 130);
@@ -341,7 +341,7 @@ table{
 .reg-link, .reg-link:hover{
 	text-decoration: none;
 	color: #FFFFFF;
-	text-transform: uppercase;
+	text-transform: none;
 	font-size: 1.2em;
 }
 
@@ -358,10 +358,10 @@ table{
 /*.col-md-4.sponsor, .col-md-8-sponsor {
 	
 }*/
-.col-md-3.sponsor, .col-md-8.sponsor{
-	margin-top: 2em;
-	padding-top: 1em;
- 	padding-bottom: 1em;
+.col-md-4.sponsor, .col-md-8.sponsor{
+	margin-top: 1.5em;
+	padding-top: 1.5em;
+ 	padding-bottom: 1.5em;
 }
 /*.sponsor-lead{
 	width: 80%;
@@ -379,14 +379,14 @@ table{
 	border-left: 1px solid;
 }
 .square-photo {
-	height: 7em;
+	height: 8em;
 	display: block;
     		margin-left: auto;
     		margin-right: auto;
 
 }
 .square-photo1 {
-	height: 4em;
+	height: 5em;
 	margin-top: 3em;
 	display: block;
     		margin-left: auto;
@@ -395,6 +395,7 @@ table{
 
  h3.sponsor-middle {
  	font-size: 1.4em;
+ 	text-transform: none;
  	padding-top: 1.3em;
  	text-align: center;
  }
