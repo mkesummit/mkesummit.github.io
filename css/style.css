@@ -78,12 +78,16 @@ header{
 	text-transform: uppercase;
 	font-weight: bold;
 }
+
 .header-link{
-	padding: .5em;
+	padding: .6em;
 	border: solid;
-	border-radius: 10px;
+	border-radius: 8px;
 	color: #2a2527;
+	box-shadow: 10px 10px 5px grey;
+	/*background-color: #205B82;*/
 }
+
 .header-link:hover, .header-link:focus{
 	/*background-color: #66AB8C;*/
 	background-color: #4f7c24;
